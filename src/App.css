@@ -1,9 +1,13 @@
 .first {
   background-color: rgb(183, 182, 182);
   width: 500px;
-  padding-bottom: 30px;
-  padding-left: 20px;
-  padding-top: 5px;
-  padding-right: 2Opx;
+  padding: 5px 50px 30px 20px;
   margin-bottom: 50px;
+  text-align: left;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.first h1 {
+  font-weight: bold;
 }
